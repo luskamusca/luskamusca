@@ -71,3 +71,13 @@
 
   <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luskamusca" />
 </div>
+
+### 🐍:
+
+<div align="center">
+
+  ![snake gif](https://github.com/luskamusca/luskamusca/blob/output/github-contribution-grid-snake.gif)
+  
+</div>
+
+

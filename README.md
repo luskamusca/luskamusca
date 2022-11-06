@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" align="right" width="500px"></img>
+<img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" align="right" width="400px"></img>
 ## Sobre Mim
 
 💸 Adoro investir!

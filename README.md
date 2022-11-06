@@ -1,7 +1,7 @@
 <h1 align='center'>Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, prazer, Lucas! </h1>
 
 
-<img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" align="right" width="400px" height="430px" ></img>
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align="right"></img>
 
 ## Sobre Mim
 

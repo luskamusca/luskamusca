@@ -19,7 +19,7 @@
 
 ## No Momento...
 
-🐦 Estou trabalhando no back-end de uma aplicação baseada no twitter.
+🏦 Estou trabalhando no front-end e no back-end de uma aplicação financeira.
 
 📚 Me formando na área de desenvolvimento web full-stack na <a href="https://www.driven.com.br/" target="_blank"> Driven Education </a>!
 
